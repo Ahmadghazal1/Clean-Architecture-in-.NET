@@ -1,0 +1,12 @@
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\bin\Debug\net8.0\infrastruture.deps.json
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\bin\Debug\net8.0\infrastruture.dll
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\bin\Debug\net8.0\infrastruture.pdb
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\infrastruture.csproj.AssemblyReference.cache
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\infrastruture.AssemblyInfoInputs.cache
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\infrastruture.AssemblyInfo.cs
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\infrastruture.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\infrastruture.dll
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\refint\infrastruture.dll
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\infrastruture.pdb
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\infrastruture\obj\Debug\net8.0\ref\infrastruture.dll

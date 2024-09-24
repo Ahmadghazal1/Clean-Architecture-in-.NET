@@ -1,0 +1,12 @@
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\Ahmad.Ghazal\source\repos\CleanArchitecture\Presentation\obj\Debug\net8.0\ref\Presentation.dll

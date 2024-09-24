@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "imdrJfrJYPo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmad.Ghazal\\source\\repos\\CleanArchitecture\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmad.Ghazal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
